@@ -12,10 +12,10 @@
 
 
 ## Programming Languages
-  <img src = 'https://github.com/mariokanario/mariokanario/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/mariokanario/readme/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/mariokanario/mariokanario/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/mariokanario/mariokanario/blob/main/images/bootstrap.svg' width='33'/> 
+  <img src = 'https://github.com/mariokanario/mariokanario/blob/main/images/html.svg' width='30'/>  <img src = 'https://github.com/mariokanario/readme/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/mariokanario/mariokanario/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/mariokanario/mariokanario/blob/main/images/bootstrap.svg' width='33'/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/mariokanario/mariokanario/blob/master/images/react.svg' width='33'/>
+ <img src = 'https://github.com/mariokanario/mariokanario/blob/main/images/react.svg' width='33'/>
  
 
  
